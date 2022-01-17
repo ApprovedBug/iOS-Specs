@@ -17,6 +17,6 @@ TODO: Add long description of the pod here.
   s.author           = { 'ApprovedBug' => 'approvedbug@outlook.com' }
   s.source           = { :git => 'https://github.com/ApprovedBug/iOS-APBFoundation-Objc.git', :branch => 'main' }
 
-  s.source_files = 'APBFoundation/**/*'
+  s.source_files = 'APBFoundation/**/*.{h,m}'
 
 end
